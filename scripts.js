@@ -4,10 +4,10 @@ console.log('%c انا في الصف الحادي عشر' , 'color: green')
 
 // جافاسكربت ليست جافا
 
-let badget = 20
+let budget = 20
 
-console.log(badget > 30 && badget < 80)
+console.log(budget > 30 && budget < 80)
 
-badget = 20 + 30
+budget = 20 + 30
 
-console.log(badget > 30 && badget < 80)
+console.log(budget > 30 && budget < 80)
