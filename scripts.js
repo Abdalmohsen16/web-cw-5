@@ -8,6 +8,6 @@ let budget = 20
 
 console.log(budget > 30 && budget < 80)
 
-budget = 20 + 30
+budget += 30
 
 console.log(budget > 30 && budget < 80)
